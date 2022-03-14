@@ -9,16 +9,15 @@ I am PRATYUSH KRISHNA RUKHAIYAR 😃. I am from Patna, Bihar and currently doing
 
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- Backend development using **Flask, Django**.
-- Mobile application development using **Flutter and Kotlin**(Still learning).
+- Backend development using **Django**.
+- Mobile application development using **Flutter**(Still learning).
 - Creating scalable cloud architecture using **AWS Cloud**.
 - Solving Data structure and algorithm questions in **C and Python**.
 ## Hello World!! 🤔
 
 - ⚡ Fun fact: Internet users blink less than usual.
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=pratyush-17&hide=["issues"]&show_icons=true)
+![Pratyush's github stats](https://github-readme-stats.vercel.app/api?username=pratyush-17&hide=["issues"]&show_icons=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=partyush-17.pratyush-17)
 
